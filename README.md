@@ -1,7 +1,5 @@
 # Welcome to Tech Genisys! 🚀
 
-![Tech Genisys Banner](https://your-image-url.com/banner.png)
-
 ## About Us
 We are **Tech Genisys**, a leading tech solutions provider specializing in:
 
@@ -28,9 +26,3 @@ We provide robust desktop solutions that cater to various business requirements,
 
 ## Get in Touch
 Feel free to reach out to us for collaboration or inquiries!
-
-- [Website](https://your-website.com)
-- [LinkedIn](https://linkedin.com/company/techgenisys)
-- [Twitter](https://twitter.com/techgenisys)
-
-## Technologies We Use
